@@ -21,7 +21,7 @@ header {
 }
 
 body {
-    background-color: #fdff77;
+    background-color: #97ff77;
     color: #000000;
     font-family:'Poppins', 'sans-serif';
 }
@@ -29,6 +29,7 @@ body {
 .titulo-2 {
     color: #000000;
     justify-content: center;
+    padding: 40px;
 }
 
 .paragrafo-1 {
