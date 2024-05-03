@@ -11,13 +11,13 @@ header {
 .cabecalho-lista-1 {
     color: #FFFFFF;
     margin-left: 40px; /* alinhamento à esquerda */
-    padding: 10px; /* espaçamento vertical */
+    padding: 15px; /* espaçamento vertical */
 }
 
 .cabecalho-lista-2 {
     color: #FFFFFF;
     margin-left: 40px;
-    padding: 10px;
+    padding: 15px;
 }
 
 body {
