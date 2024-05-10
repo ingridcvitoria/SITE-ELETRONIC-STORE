@@ -5,23 +5,29 @@ header {
 
 .cabecalho {
     color: #FFFFFF;
-    margin: center;
+    margin-left: 660px;
+    text-align: center;
+    display: flex;
 }
 
 .cabecalho-lista-1 {
     color: #FFFFFF;
-    margin-left: 40px; /* alinhamento à esquerda */
-    padding: 10px; /* espaçamento vertical */
+    margin-left: 260px; /* alinhamento à esquerda */
+    padding: 40px; /* espaçamento vertical */
+    display: inline-block;
+    justify-content: center;
 }
 
 .cabecalho-lista-2 {
     color: #FFFFFF;
-    margin-left: 40px;
-    padding: 10px;
+    margin-left: 260px; /* alinhamento à esquerda */
+    padding: 40px; /* espaçamento vertical */
+    display: inline-block;
+    justify-content: center;
 }
 
 body {
-    background-color: #ffff66;
+    background-color: #fff666;
     color: #000000;
     font-family:'Poppins', 'sans-serif';
 }
@@ -29,7 +35,7 @@ body {
 .titulo-2 {
     color: #000000;
     justify-content: center;
-    padding: 40px;
+    display: flex;
 }
 
 .paragrafo-1 {
